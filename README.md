@@ -48,7 +48,7 @@ The notebook was developed using common data science libraries. Typical packages
 ## Results and experiments
 
 - The notebook includes multiple modelling experiments and visualizations.
-- 
+  
 
 ## Contributing
 
